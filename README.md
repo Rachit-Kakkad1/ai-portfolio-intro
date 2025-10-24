@@ -35,8 +35,7 @@ ai-portfolio-intro/
 ├── data.json
 └── server.js
 
-yaml
-Copy code
+
 
 ---
 
