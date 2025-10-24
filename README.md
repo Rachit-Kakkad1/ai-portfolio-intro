@@ -1,3 +1,5 @@
+![AI-Powered Portfolio Intro Banner](https://res.cloudinary.com/dr84lv5ym/image/upload/v1761320263/Gemini_Generated_Image_2ckhl92ckhl92ckh_huunqx.png)
+
 # ⚡ AI-Powered Portfolio Intro
 
 > 🧠 “Chat with my digital twin!”  
@@ -35,7 +37,8 @@ ai-portfolio-intro/
 ├── data.json
 └── server.js
 
-
+yaml
+Copy code
 
 ---
 
@@ -43,8 +46,7 @@ ai-portfolio-intro/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/ai-portfolio-intro.git
-cd ai-portfolio-intro
+git clone https://github.com/Rachit-Kakkad1/ai-portfolio-intro.git
 2️⃣ Add Your OpenAI API Key
 bash
 Copy code
@@ -96,3 +98,6 @@ If you do, tag me on LinkedIn — I’d love to see your version 🚀
 
 🔖 Tags
 #AI #WebDevelopment #JavaScript #OpenAI #Portfolio #Innovation #CodingProjects #Chatbot
+
+pgsql
+Copy code
